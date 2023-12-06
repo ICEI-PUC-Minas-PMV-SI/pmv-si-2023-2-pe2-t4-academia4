@@ -1,18 +1,18 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: de Moraes
+    given-names: Eduardo Medeiros
+  - family-names: Santana
+    given-names: André 
+  - family-names: Morais Junior
+    given-names: Carlos Alberto
+  - family-names: Damas Batista
+    given-names: Ana Corina
+  - family-names: Rezende Vaz de Mello
+    given-names: João Ricardo 
+  - family-names: Lindenberg Pimenta
+    given-names: João Pedro
     
   - name-suffix: Professor
     affiliation: PUC Minas
@@ -29,16 +29,18 @@ authors:
   
 cff-version: "1.1.0"
 keywords: 
-  - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Cadastro de Clientes em academias e ginástica"
+  - "Alocação em Turmas em academias e ginástica"
+  - "Cadastro de Professor em academias e ginástica"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
 repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+title: "Puc Fit"
 abstract: |
     "
-    Breve descrição do projeto
+    O objetivo do Puc Fit é otimizar a gestão operacional, oferecendo uma plataforma integrada para automação de processos, como cadastro de clientes, alocação de clientes em turmas e cadastro de professor. Essa ferramenta visa melhorar a eficiência, reduzir erros e retrabalho, proporcionando uma experiência mais fluida tanto para os clientes quanto para a equipe administrativa.
+
+Ao centralizar e automatizar tarefas, o sistema contribui para uma administração mais eficaz, permitindo que a equipe dedique mais tempo a atividades de maior valor, como oferecer suporte personalizado aos clientes e aprimorar seus resultados de condicionamento físico.
     "
 ...
