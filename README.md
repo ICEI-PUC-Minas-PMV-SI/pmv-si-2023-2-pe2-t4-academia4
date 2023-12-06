@@ -101,7 +101,6 @@ Objetivo: Este relatório ajuda a entender a distribuição de professores pelas
 | Alunos por Modalidade       | ```sql SELECT modalidade.NomeModalidade AS modalidade, COUNT(*) AS quantidade_alunos FROM aluno INNER JOIN turma ON aluno.id = turma.id_aluno INNER JOIN modalidade ON turma.id_modalidade = modalidade.id GROUP BY modalidade.nome;``` |
 | Total de Alunos             | ```sql SELECT COUNT(*) AS total_alunos FROM aluno;```      |
 | Professor por Modalidade   | ```sql SELECT modalidade.nome AS modalidade, professor.nome AS professor FROM modalidade INNER JOIN professor ON modalidade.instrutor_principal = professor.id;``` |
-| Alunos por Professor        | ```sql SELECT aluno.nome AS aluno, professor.nome AS professor FROM aluno INNER JOIN turma ON aluno.id = turma.id_aluno INNER JOIN modalidade ON turma.id_modalidade = modalidade.id INNER JOIN professor ON modalidade.instrutor_principal = professor.id;``` |
 
 ##
 **6. Indicadores de desempenho**
