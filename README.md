@@ -132,42 +132,13 @@ FROM
 ##
 **6. Indicadores de desempenho**
 
-Indicador
-Objetivo
-Descrição
-Fórmula de cálculo
-Fontes de dados
-Perspectiva
-Média de Alunos por Modalidade
-Avaliar o envolvimento médio dos alunos em diferentes modalidades
-Média do número de alunos matriculados em cada modalidade em relação ao total de modalidades oferecidas
-Σ (Alunos por Modalidade) / Total de Modalidades
-Tabela Alunos por Modalidade
-Aprendizado e Crescimento
-Taxa de Crescimento de Clientes Mensal
-Avaliar o aumento mensal no número de clientes
-Percentual de crescimento no número total de clientes em relação ao mês anterior
-[(Clientes Atuais - Clientes do Mês Anterior) / Clientes do Mês Anterior] * 100
-Gráfico total de alunos
-Cliente e Processos Internos
-Taxa de Crescimento de Alunos por Modalidade
-Avaliar a popularidade das modalidades oferecidas 
-Percentual de crescimento no número de alunos em uma modalidade em relação ao período anterior
-[(Alunos Atuais - Alunos Anteriores) / Alunos Anteriores] * 100
-Tabela alunos por Modalidade
-Processos Internos
-Taxa de Participação de Professores por Modalidade
-Medir o engajamento dos professores em diferentes modalidades
-Percentual de modalidades em que um professor está envolvido em relação ao total de modalidades
-(Modalidades com Professor / Total de Modalidades) * 100
-Tabela professor por modalidade
-Professor e Processos Internos
-Índice de Retenção de Alunos
-Avaliar a capacidade de manter alunos matriculados
-Percentual de alunos que permanecem matriculados em relação ao total de alunos matriculados
-(Alunos Retidos / Total de Alunos) * 100
-Gráfico total de alunos
-Cliente
+| Indicador                                | Objetivo                                       | Descrição                                            | Fórmula de Cálculo                                                                                               | Fontes de Dados               | Perspectiva                     |
+|------------------------------------------|------------------------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------|---------------------------------|
+| Média de Alunos por Modalidade            | Avaliar o envolvimento médio dos alunos         | Média do número de alunos matriculados em cada modalidade em relação ao total de modalidades oferecidas            | Σ (Alunos por Modalidade) / Total de Modalidades    | Tabela Alunos por Modalidade | Aprendizado e Crescimento       |
+| Taxa de Crescimento de Clientes Mensal    | Avaliar o aumento mensal no número de clientes | Percentual de crescimento no número total de clientes em relação ao mês anterior                                   | [(Clientes Atuais - Clientes do Mês Anterior) / Clientes do Mês Anterior] * 100                                 | Gráfico total de alunos       | Cliente e Processos Internos   |
+| Taxa de Crescimento de Alunos por Modalidade | Avaliar a popularidade das modalidades       | Percentual de crescimento no número de alunos em uma modalidade em relação ao período anterior                     | [(Alunos Atuais - Alunos Anteriores) / Alunos Anteriores] * 100                                                 | Tabela alunos por Modalidade  | Processos Internos              |
+| Taxa de Participação de Professores por Modalidade | Medir o engajamento dos professores     | Percentual de modalidades em que um professor está envolvido em relação ao total de modalidades                    | (Modalidades com Professor / Total de Modalidades) * 100                                                        | Tabela professor por modalidade | Professor e Processos Internos |
+| Índice de Retenção de Alunos              | Avaliar a capacidade de manter alunos         | Percentual de alunos que permanecem matriculados em relação ao total de alunos matriculados                         | (Alunos Retidos / Total de Alunos) * 100                                                                         | Gráfico total de alunos       | Cliente                         |
 
 ##
 **7. Conclusão**
