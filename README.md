@@ -1,36 +1,7 @@
-# Nome do projeto
+# Puc Fit
 
 Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
 
-## Integrantes
-
-* Eduardo Medeiros de Moraes
-* Ana Corina Damas Batista
-* André Santana
-* Carlos Alberto Morais Junior
-* João Pedro Lindenberg Pimenta
-* João Ricardo Rezende Vaz de Mello
-
-## Professor
-
-* Juliana Amaral Baroni de Carvalho
-
-* DOCUMENTO DO PROJETO - PUC FIT
-Ana Corina Damas Batista
-André Santana
-Carlos Alberto Morais Junior
-Eduardo Medeiros de Moraes
-Guilherme Folco Lima
-João Ricardo Rezende Vaz de Mello
-João Pedro Lindenberg Pimenta
-1Instituto de Informática e Ciências Exatas – Pontifícia Universidade Católica de Minas Gerais (PUC MINAS)
-Belo Horizonte – MG – Brasil
-e-mail dos alunos
-jrrvmello@sga.pucminas.br
-andre.santana@sga.pucminas.br
-camjunior@sga.pucminas.br
-1265958@sga.pucminas.br
-joao.lindenberg@sga.pucminas.br
 
 1. Introdução
 Em um contexto de constantes inovações tecnológicas, o setor fitness se destaca tanto pelas oportunidades quanto pelos desafios que emergem destas transformações. Com a evolução do comportamento do consumidor e a crescente busca por saúde e bem-estar, as academias se tornaram espaços essenciais para muitos indivíduos, reforçando a necessidade de processos otimizados e sistemas de gestão eficientes (Censo Fitness, 2022).
@@ -148,8 +119,6 @@ FROM
 
 
 6. Indicadores de desempenho
-Com uma visão mais estratégica, identifiquem, a partir dos relatórios analíticos, indicadores chave de processo (KPIs – Key Process Indicator) que permitam um acompanhamento integrado dos vários processos eleitos. 
-Detalhem,  na tabela abaixo, pelo menos cinco indicadores de desempenho identificados. Esses indicadores de desempenho devem ser descritos por meio de medidas estatísticas, conforme exemplo abaixo.
 Indicador
 Objetivo
 Descrição
@@ -197,7 +166,16 @@ Como um projeto de software não requer revisão bibliográfica, a inclusão das
 Verifiquem no link abaixo como devem ser as referências no padrão ABNT:
 http://www.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 
+## Integrantes
 
+* Eduardo Medeiros de Moraes
+* Ana Corina Damas Batista
+* André Santana
+* Carlos Alberto Morais Junior
+* João Pedro Lindenberg Pimenta
+* João Ricardo Rezende Vaz de Mello
 
+## Professor
 
+* Juliana Amaral Baroni de Carvalho
 
