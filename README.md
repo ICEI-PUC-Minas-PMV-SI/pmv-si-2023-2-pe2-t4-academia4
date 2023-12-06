@@ -6,6 +6,7 @@ Ao centralizar e automatizar tarefas, o sistema contribui para uma administraç�
 
 ##
 **1. Introdução**
+
 Em um contexto de constantes inovações tecnológicas, o setor fitness se destaca tanto pelas oportunidades quanto pelos desafios que emergem destas transformações. Com a evolução do comportamento do consumidor e a crescente busca por saúde e bem-estar, as academias se tornaram espaços essenciais para muitos indivíduos, reforçando a necessidade de processos otimizados e sistemas de gestão eficientes (Censo Fitness, 2022).
 Apesar desta crescente demanda, os dados do Censo Fitness (2022) indicam que uma parcela significativa destes estabelecimentos ainda não adotou sistemas digitais para a gestão e administração dos seus processos, sobretudo nos cadastros de clientes e elaboração de treinos personalizados. Tal lacuna pode representar uma barreira no atendimento às expectativas de um público cada vez mais digitalizado.
 
@@ -13,6 +14,7 @@ Problema: A ausência de sistemas digitais nas academias pode acarretar inefici�
 Motivação: A adoção de sistemas digitais nas academias não apenas atenderia a demanda de um público mais tecnológico, mas também proporcionaria uma gestão mais eficiente, otimizando o tempo dos colaboradores (recepcionistas e professores) e permitindo uma experiência mais personalizada para os clientes. Diante disso, surge a necessidade de desenvolver um sistema que integre os processos de gestão das academias, desde o cadastro de clientes até a entrega de treinos personalizados.
 
 **1.1. Objetivos geral e específicos**
+
 Este trabalho tem como objetivo principal desenvolver um sistema de automação destinado ao processo de cadastro de treinos personalizados e à gestão de clientes em uma academia, visando aprimorar a eficiência e a organização dessas atividades.
 Objetivos Específicos:
 Elaborar uma plataforma que permita o cadastro detalhado dos treinos personalizados..
@@ -21,6 +23,7 @@ Implementar um sistema de cadastro de clientes que facilite o armazenamento e ac
 A relevância deste projeto reside na necessidade de otimizar e modernizar os procedimentos manuais de cadastro de treinos e gestão de clientes em academias. A automação desses processos simplificará a rotina dos instrutores, possibilitando o direcionamento mais eficiente dos treinos de acordo com as necessidades individuais de cada cliente. Além disso, a centralização das informações dos clientes em um sistema digital contribuirá para a rápida recuperação de dados e melhor acompanhamento de seu progresso ao longo do tempo. Essa solução resultará em uma experiência mais satisfatória para os clientes, aumentando sua motivação e engajamento. 
 ##
 **2. Participantes do processo de negócio**
+
 Os participantes-chave do sistema incluem:
 CLIENTES: aqueles que contrataram um plano na academia e usufruem dos seus serviços.
 Acessam o treino personalizado na plataforma;
@@ -32,7 +35,9 @@ PROFESSORES: responsáveis por cadastrar treinos personalizados na plataforma.
 Cadastram treinos personalizados.
 ##
 **3. Modelagem do processo de negócio**
+
 **3.1. Análise da situação atual (AS-IS)**
+
 Cadastro de cliente
 No processo manual atual de cadastro de clientes na academia e ginástica, os clientes em potencial precisam preencher formulários impressos com suas informações pessoais, como nome, endereço, número de telefone, data de nascimento, histórico médico e metas de condicionamento físico. Esses formulários são fornecidos na recepção da academia e devem ser preenchidos à mão demandando muito tempo e uma falta de acesso fácil aos dados dos clientes.
 Automatizar o processo de cadastro de clientes não apenas aumentaria a eficiência operacional, mas também melhoraria a qualidade do atendimento ao cliente e reduziria erros e retrabalho. Isso permitiria que a equipe se concentrasse em atividades mais valiosas, como fornecer orientação personalizada aos clientes e melhorar seus resultados de condicionamento físico.
@@ -50,6 +55,7 @@ No modelo As-Is de cadastro de professores em uma academia, o processo é majori
 Esse método não só consome tempo considerável, mas também pode levar a erros de interpretação e retrabalho. Ao migrar para um modelo mais automatizado, seria possível agilizar o processo de cadastro, reduzir as redundâncias e proporcionar uma gestão mais eficaz das informações dos professores, resultando em benefícios tanto para a administração quanto para os próprios profissionais, que teriam uma experiência mais fluida e eficiente ao ingressarem na equipe da academia.
 
 **3.2.  Modelagem dos processos aprimorados (TO-BE)**
+
 Cadastro de cliente
 O cliente será cadastrado com todas as informações necessárias como nome completo, endereço, data de nascimento, número de telefone e endereço de e-mail. As informações fornecidas pelo cliente são registradas, criando um perfil para o novo cliente.
 
@@ -61,9 +67,11 @@ Cadastro de professor
 O Professor será cadastrado com todas as informações necessárias como nome completo, endereço, data de nascimento, número de telefone e endereço de e-mail. As informações fornecidas pelo professor são registradas. 
 ##
 **4. Projeto da arquitetura de dados da solução proposta**
+
 **4.1. Diagrama de Entidades e Relacionamentos (DER)**
 
 **4.2. Impactos da implementação em um banco de dados NoSQL**
+
 Ao considerar a implementação da solução proposta usando um banco de dados NoSQL, diversos fatores e aspectos são relevantes para serem abordados.
 Escala e Performance: A natureza distribuída de muitos bancos de dados NoSQL permite que a solução escale horizontalmente. Isso é especialmente útil para lidar com grandes volumes de dados e para garantir performance mesmo com o crescimento do número de clientes e treinos personalizados.
 Flexibilidade de Estrutura: Sem a necessidade de um esquema fixo, a solução pode adaptar-se mais facilmente a mudanças nos requisitos de dados, permitindo, por exemplo, adicionar novos atributos ao cadastro de treinos ou clientes sem grandes alterações.
@@ -75,7 +83,6 @@ Complexidade de Consulta: Bancos de dados NoSQL podem não suportar a ampla gama
 
 ##
 **5. Relatórios analíticos**
-
 
 Relatório "Alunos por Modalidade"
 Objetivo: Este relatório visa fornecer uma visão clara da distribuição de alunos nas diferentes modalidades oferecidas, auxiliando na alocação de recursos e no planejamento estratégico.
@@ -123,6 +130,7 @@ FROM
 
 ##
 **6. Indicadores de desempenho**
+
 Indicador
 Objetivo
 Descrição
@@ -162,9 +170,11 @@ Cliente
 
 ##
 **7. Conclusão**
+
 Apresentem aqui a conclusão do trabalho que deve conter uma síntese dos principais resultados obtidos com a melhoria dos processos, uma discussão das limitações da solução proposta e sugestões de novas linhas de estudo. 
 ##
 **REFERÊNCIAS**
+
 CENSO FITNESS. Relatório sobre o panorama do setor fitness no Brasil. 2022. Disponível em: https://censofitness.com.br/. Acesso em: 25 ago. 2023.
 Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso vocês desejem incluir referências relacionadas às tecnologias, padrões, ou metodologias empregadas no trabalho, relacione-as de acordo com a ABNT.
 Verifiquem no link abaixo como devem ser as referências no padrão ABNT:
