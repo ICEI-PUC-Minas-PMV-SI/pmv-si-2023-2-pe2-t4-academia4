@@ -1,6 +1,8 @@
 # Puc Fit
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+O objetivo do Puc Fit é otimizar a gestão operacional, oferecendo uma plataforma integrada para automação de processos, como cadastro de clientes, alocação de clientes em turmas e cadastro de professor. Essa ferramenta visa melhorar a eficiência, reduzir erros e retrabalho, proporcionando uma experiência mais fluida tanto para os clientes quanto para a equipe administrativa. 
+
+Ao centralizar e automatizar tarefas, o sistema contribui para uma administração mais eficaz, permitindo que a equipe dedique mais tempo a atividades de maior valor, como oferecer suporte personalizado aos clientes e aprimorar seus resultados de condicionamento físico.
 
 
 1. Introdução
