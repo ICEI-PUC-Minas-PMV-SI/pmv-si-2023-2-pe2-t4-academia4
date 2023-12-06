@@ -95,6 +95,7 @@ Relatório "Professor por Modalidade"
 Objetivo: Este relatório ajuda a entender a distribuição de professores pelas diversas modalidades, facilitando a gestão de recursos humanos e a coordenação acadêmica.
   
  **5.1. Associação de comandos SQL com relatórios analíticos**
+
 Nome do Relatório Analítico
 Comando SQL-DML (SELECT)
 Alunos por Modalidade
