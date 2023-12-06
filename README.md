@@ -4,7 +4,7 @@ O objetivo do Puc Fit é otimizar a gestão operacional, oferecendo uma platafor
 
 Ao centralizar e automatizar tarefas, o sistema contribui para uma administração mais eficaz, permitindo que a equipe dedique mais tempo a atividades de maior valor, como oferecer suporte personalizado aos clientes e aprimorar seus resultados de condicionamento físico.
 
-
+##
 1. Introdução
 Em um contexto de constantes inovações tecnológicas, o setor fitness se destaca tanto pelas oportunidades quanto pelos desafios que emergem destas transformações. Com a evolução do comportamento do consumidor e a crescente busca por saúde e bem-estar, as academias se tornaram espaços essenciais para muitos indivíduos, reforçando a necessidade de processos otimizados e sistemas de gestão eficientes (Censo Fitness, 2022).
 Apesar desta crescente demanda, os dados do Censo Fitness (2022) indicam que uma parcela significativa destes estabelecimentos ainda não adotou sistemas digitais para a gestão e administração dos seus processos, sobretudo nos cadastros de clientes e elaboração de treinos personalizados. Tal lacuna pode representar uma barreira no atendimento às expectativas de um público cada vez mais digitalizado.
