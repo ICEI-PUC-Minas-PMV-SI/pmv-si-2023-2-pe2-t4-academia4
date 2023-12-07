@@ -43,7 +43,7 @@ No processo manual atual de cadastro de clientes na academia e ginástica, os cl
 Automatizar o processo de cadastro de clientes não apenas aumentaria a eficiência operacional, mas também melhoraria a qualidade do atendimento ao cliente e reduziria erros e retrabalho. Isso permitiria que a equipe se concentrasse em atividades mais valiosas, como fornecer orientação personalizada aos clientes e melhorar seus resultados de condicionamento físico.
 <br>
 <div align="center">
- <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/e29964f0-dc15-4d39-9c3d-d7105f37d4af"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/02d39364-0c4e-450d-81b0-f4368ee636a4"/>
 </div>
 <br>
 <h3> Gerenciamento de turmas </h3>
