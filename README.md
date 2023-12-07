@@ -46,7 +46,7 @@ Automatizar o processo de cadastro de clientes não apenas aumentaria a eficiên
  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/e29964f0-dc15-4d39-9c3d-d7105f37d4af"/>
 </div>
 <br>
-Alocação de clientes em turmas
+Gerenciamento de turmas
 <br>
  No atual cenário de alocação de clientes em turmas de academia e ginástica, o processo é predominantemente manual e propenso a ineficiências. A alocação de clientes em turmas específicas muitas vezes depende de listas impressas e planilhas físicas, o que torna o procedimento suscetível a erros e limita a visibilidade em tempo real da disponibilidade de cada turma. Os clientes, ao se inscreverem para aulas, preenchem formulários em papel na recepção, e a alocação é então realizada manualmente pela equipe, resultando em idas e vindas para acomodar solicitações ou corrigir possíveis conflitos. 
 
@@ -61,7 +61,7 @@ No modelo As-Is de cadastro de professores em uma academia, o processo é majori
 
 Esse método não só consome tempo considerável, mas também pode levar a erros de interpretação e retrabalho. Ao migrar para um modelo mais automatizado, seria possível agilizar o processo de cadastro, reduzir as redundâncias e proporcionar uma gestão mais eficaz das informações dos professores, resultando em benefícios tanto para a administração quanto para os próprios profissionais, que teriam uma experiência mais fluida e eficiente ao ingressarem na equipe da academia.
 <div align="center">
- <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/e788844f-e2b8-4ff0-beb2-8d372c98ee51"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/055e70f3-2809-4829-9b6d-c27c6d9bf1b9"/>
 </div>
 <br>
 **3.2.  Modelagem dos processos aprimorados (TO-BE)**
@@ -69,14 +69,23 @@ Esse método não só consome tempo considerável, mas também pode levar a erro
 Cadastro de cliente
 <br>
 O cliente será cadastrado com todas as informações necessárias como nome completo, endereço, data de nascimento, número de telefone e endereço de e-mail. As informações fornecidas pelo cliente são registradas, criando um perfil para o novo cliente.
+<div align="center">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/94df08dd-5f07-4422-b30c-6ec3bace739a"/>
+</div>
 <br>
-Alocação do cliente em turmas
+Gerenciamento de turmas
 <br>
 Com base nas preferências do cliente e na disponibilidade de horários nas turmas escolhidas, o sistema de gerenciamento da academia aloca o cliente nas turmas correspondentes.
+<div align="center">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/611aac83-0259-4e16-8afc-af7b241b2522"/>
+</div>
 <br>
 Cadastro de professor
-<br>
 O Professor será cadastrado com todas as informações necessárias como nome completo, endereço, data de nascimento, número de telefone e endereço de e-mail. As informações fornecidas pelo professor são registradas. 
+<div align="center">
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/473fd82e-a328-4378-9c50-9157c78efa23"/>
+</div>
+<br>
 ##
 **4. Projeto da arquitetura de dados da solução proposta**
 
