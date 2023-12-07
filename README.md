@@ -39,17 +39,21 @@ Cadastram treinos personalizados.
 **3.1. Análise da situação atual (AS-IS)**
 
 Cadastro de cliente
+
 No processo manual atual de cadastro de clientes na academia e ginástica, os clientes em potencial precisam preencher formulários impressos com suas informações pessoais, como nome, endereço, número de telefone, data de nascimento, histórico médico e metas de condicionamento físico. Esses formulários são fornecidos na recepção da academia e devem ser preenchidos à mão demandando muito tempo e uma falta de acesso fácil aos dados dos clientes.
 Automatizar o processo de cadastro de clientes não apenas aumentaria a eficiência operacional, mas também melhoraria a qualidade do atendimento ao cliente e reduziria erros e retrabalho. Isso permitiria que a equipe se concentrasse em atividades mais valiosas, como fornecer orientação personalizada aos clientes e melhorar seus resultados de condicionamento físico.
-
-
-
+<div aligh="center">
+![cadastro de cliente as-is](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/e29964f0-dc15-4d39-9c3d-d7105f37d4af)
+/div>
+<br>
 Alocação de clientes em turmas
+
  No atual cenário de alocação de clientes em turmas de academia e ginástica, o processo é predominantemente manual e propenso a ineficiências. A alocação de clientes em turmas específicas muitas vezes depende de listas impressas e planilhas físicas, o que torna o procedimento suscetível a erros e limita a visibilidade em tempo real da disponibilidade de cada turma. Os clientes, ao se inscreverem para aulas, preenchem formulários em papel na recepção, e a alocação é então realizada manualmente pela equipe, resultando em idas e vindas para acomodar solicitações ou corrigir possíveis conflitos. 
 
 Automatizar o processo de alocação de clientes em turmas não apenas agilizaria a administração das inscrições, mas também proporcionaria uma visão instantânea da disponibilidade de cada turma, otimizando a distribuição de alunos. Isso não só aumentaria a eficiência operacional, mas também melhoraria a experiência do cliente, permitindo uma escolha mais flexível de horários e reduzindo a probabilidade de conflitos de agendamento.
-‘
+
 Cadastro de professor
+
 No modelo As-Is de cadastro de professores em uma academia, o processo é majoritariamente manual e suscetível a ineficiências. Os professores interessados em integrar a equipe da academia precisam preencher formulários em papel, fornecendo detalhes como nome, endereço, contato, experiência profissional e habilidades específicas. Esses documentos, uma vez preenchidos, são submetidos à administração da academia, muitas vezes resultando em idas e vindas para correções ou esclarecimentos adicionais.
 
 Esse método não só consome tempo considerável, mas também pode levar a erros de interpretação e retrabalho. Ao migrar para um modelo mais automatizado, seria possível agilizar o processo de cadastro, reduzir as redundâncias e proporcionar uma gestão mais eficaz das informações dos professores, resultando em benefícios tanto para a administração quanto para os próprios profissionais, que teriam uma experiência mais fluida e eficiente ao ingressarem na equipe da academia.
