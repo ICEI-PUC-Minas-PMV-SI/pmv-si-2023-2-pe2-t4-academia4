@@ -157,7 +157,6 @@ http://www.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 
 * Eduardo Medeiros de Moraes
 * Ana Corina Damas Batista
-* André Santana
 * Carlos Alberto Morais Junior
 * João Pedro Lindenberg Pimenta
 * João Ricardo Rezende Vaz de Mello
