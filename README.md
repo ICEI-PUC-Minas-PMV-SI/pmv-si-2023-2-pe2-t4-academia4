@@ -37,7 +37,6 @@ Cadastram treinos personalizados.
 ## **3. Modelagem do processo de negócio**
 
 ## **3.1. Análise da situação atual (AS-IS)**
-<br>
 <h3>Cadastro de cliente</h3>
 <br>
 No processo manual atual de cadastro de clientes na academia e ginástica, os clientes em potencial precisam preencher formulários impressos com suas informações pessoais, como nome, endereço, número de telefone, data de nascimento, histórico médico e metas de condicionamento físico. Esses formulários são fornecidos na recepção da academia e devem ser preenchidos à mão demandando muito tempo e uma falta de acesso fácil aos dados dos clientes.
