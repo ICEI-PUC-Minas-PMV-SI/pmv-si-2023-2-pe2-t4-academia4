@@ -95,7 +95,11 @@ O Professor será cadastrado com todas as informações necessárias como nome c
 ## **4. Projeto da arquitetura de dados da solução proposta**
 
 ## **4.1. Diagrama de Entidades e Relacionamentos (DER)**
-
+<br>
+<div align="center">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/8b840578-0d99-41de-b8ff-f6c3e2a5747d" />
+</div>
+<br>
 ## **4.2. Impactos da implementação em um banco de dados NoSQL**
 
 Ao considerar a implementação da solução proposta usando um banco de dados NoSQL, diversos fatores e aspectos são relevantes para serem abordados.
