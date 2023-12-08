@@ -104,11 +104,17 @@ O Professor será cadastrado com todas as informações necessárias como nome c
 ## **4.2. Impactos da implementação em um banco de dados NoSQL**
 
 Ao considerar a implementação da solução proposta usando um banco de dados NoSQL, diversos fatores e aspectos são relevantes para serem abordados.
-  **Escala e Performance:** A natureza distribuída de muitos bancos de dados NoSQL permite que a solução escale horizontalmente. Isso é especialmente útil para lidar com grandes     volumes de dados e para garantir performance mesmo com o crescimento do número de clientes e treinos personalizados.
-  **Flexibilidade de Estrutura:** Sem a necessidade de um esquema fixo, a solução pode adaptar-se mais facilmente a mudanças nos requisitos de dados, permitindo, por exemplo,          adicionar novos atributos ao cadastro de treinos ou clientes sem grandes alterações.
-  **Disponibilidade:** Alguns sistemas NoSQL, especialmente os baseados em sistemas distribuídos, têm alta disponibilidade, sendo ideais para aplicações que não podem ter tempo de   inatividade.
-  **Consistência:** Muitos bancos NoSQL adotam um modelo eventualmente consistente, o que pode levar a situações onde os dados não são refletidos imediatamente em todas as partes    do sistema.
-  **Complexidade de Consulta:** Bancos de dados NoSQL podem não suportar a ampla gama de operações de consulta que os bancos de dados relacionais tradicionais suportam. Isso pode    tornar algumas operações mais complexas de serem implementadas.
+
+**Escala e Performance:** A natureza distribuída de muitos bancos de dados NoSQL permite que a solução escale horizontalmente. Isso é especialmente útil para lidar com grandes     volumes de dados e para garantir performance mesmo com o crescimento do número de clientes e treinos personalizados.
+
+**Flexibilidade de Estrutura:** Sem a necessidade de um esquema fixo, a solução pode adaptar-se mais facilmente a mudanças nos requisitos de dados, permitindo, por exemplo,        adicionar novos atributos ao cadastro de treinos ou clientes sem grandes alterações.
+
+**Disponibilidade:** Alguns sistemas NoSQL, especialmente os baseados em sistemas distribuídos, têm alta disponibilidade, sendo ideais para aplicações que não podem ter tempo 
+   de   inatividade.
+
+**Consistência:** Muitos bancos NoSQL adotam um modelo eventualmente consistente, o que pode levar a situações onde os dados não são refletidos imediatamente em todas as partes    do sistema.
+
+**Complexidade de Consulta:** Bancos de dados NoSQL podem não suportar a ampla gama de operações de consulta que os bancos de dados relacionais tradicionais suportam. Isso pode    tornar algumas operações mais complexas de serem implementadas.
 
 ## **4.3. Modelo relacional**
 
