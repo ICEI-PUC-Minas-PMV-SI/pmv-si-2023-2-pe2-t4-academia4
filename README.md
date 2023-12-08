@@ -97,7 +97,7 @@ O Professor será cadastrado com todas as informações necessárias como nome c
 ## **4.1. Diagrama de Entidades e Relacionamentos (DER)**
 <br>
 <div align="center">
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/8b840578-0d99-41de-b8ff-f6c3e2a5747d" />
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/c6a599e6-ce7b-4ea5-bf62-a5138ac4201c" />
 </div>
 <br>
 ## **4.2. Impactos da implementação em um banco de dados NoSQL**
