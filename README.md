@@ -68,12 +68,12 @@ Esse método não só consome tempo considerável, mas também pode levar a erro
 <br>
 
 ## **3.2.  Modelagem dos processos aprimorados (TO-BE)**
-<h3>Cadastro de cliente</h3>
+<h3>Gerenciamento de cliente</h3>
 <br>
 O cliente será cadastrado com todas as informações necessárias como nome completo, endereço, data de nascimento, número de telefone e endereço de e-mail. As informações fornecidas pelo cliente são registradas, criando um perfil para o novo cliente.
 <br>
 <div align="center">
- <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/94df08dd-5f07-4422-b30c-6ec3bace739a"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/c29073bc-4e7f-4b0c-9bb5-5dfc2c021810"/>
 </div>
 <br>
 <h3>Gerenciamento de turmas</h3>
@@ -84,12 +84,12 @@ Com base nas preferências do cliente e na disponibilidade de horários nas turm
  <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/611aac83-0259-4e16-8afc-af7b241b2522"/>
 </div>
 <br>
-<h3>Cadastro de professor</h3>
+<h3>Gerenciamento de professor</h3>
 <br>
 O Professor será cadastrado com todas as informações necessárias como nome completo, endereço, data de nascimento, número de telefone e endereço de e-mail. As informações fornecidas pelo professor são registradas. 
 <br>
 <div align="center">
- <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/473fd82e-a328-4378-9c50-9157c78efa23"/>
+ <img src="https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/3ba76b27-9961-4082-a8a9-1dbc6eaff66c"/>
 </div>
 
 ## **4. Projeto da arquitetura de dados da solução proposta**
