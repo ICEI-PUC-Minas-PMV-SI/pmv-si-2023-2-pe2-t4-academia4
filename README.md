@@ -142,7 +142,7 @@ Relatório "Professor por Modalidade"
 <br>
 Objetivo: Este relatório ajuda a entender a distribuição de professores pelas diversas modalidades, facilitando a gestão de recursos humanos e a coordenação acadêmica.
 <div align="center">
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/40c31b28-a71f-4c2c-9a2b-f8f800413596" />
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/241c0f0f-171e-418a-9ba3-c1da77ba7088" />
 </div>
 <br>
 
