@@ -121,6 +121,7 @@ Ao considerar a implementação da solução proposta usando um banco de dados N
 <img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/e773343a-45c3-4bb3-bd10-28c3cf026c4e" />
 </div>
 <br>
+
 ## **5. Relatórios analíticos**
 
 Relatório "Alunos por Modalidade"
