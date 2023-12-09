@@ -169,9 +169,6 @@ Objetivo: Este relatório ajuda a entender a distribuição de professores pelas
 ## **REFERÊNCIAS**
 
 CENSO FITNESS. Relatório sobre o panorama do setor fitness no Brasil. 2022. Disponível em: https://censofitness.com.br/. Acesso em: 25 ago. 2023.
-Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso vocês desejem incluir referências relacionadas às tecnologias, padrões, ou metodologias empregadas no trabalho, relacione-as de acordo com a ABNT.
-Verifiquem no link abaixo como devem ser as referências no padrão ABNT:
-http://www.pucminas.br/imagedb/documento/DOC_DSC_NOME_ARQUI20160217102425.pdf
 
 ## Integrantes
 
