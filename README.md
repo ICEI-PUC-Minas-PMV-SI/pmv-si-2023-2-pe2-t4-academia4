@@ -166,10 +166,6 @@ Objetivo: Este relatório ajuda a entender a distribuição de professores pelas
   Em resumo, a automação dos processos na academia demonstrou ser uma estratégia eficaz para aprimorar a eficiência operacional. Contudo, é crucial estar ciente das limitações inerentes e buscar constantemente a inovação para enfrentar os desafios em evolução no cenário tecnológico, visando a contínua melhoria e excelência nos serviços prestados.
  
 
-## **REFERÊNCIAS**
-
-CENSO FITNESS. Relatório sobre o panorama do setor fitness no Brasil. 2022. Disponível em: https://censofitness.com.br/. Acesso em: 25 ago. 2023.
-
 ## Integrantes
 
 * Eduardo Medeiros de Moraes
@@ -182,3 +178,6 @@ CENSO FITNESS. Relatório sobre o panorama do setor fitness no Brasil. 2022. Dis
 
 * Juliana Amaral Baroni de Carvalho
 
+## **REFERÊNCIAS**
+
+CENSO FITNESS. Relatório sobre o panorama do setor fitness no Brasil. 2022. Disponível em: https://censofitness.com.br/. Acesso em: 25 ago. 2023.
