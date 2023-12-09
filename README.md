@@ -155,14 +155,15 @@ Objetivo: Este relatório ajuda a entender a distribuição de professores pelas
 
 ## **7. Conclusão**
 
-A automação dos processos de uma academia, abrangendo o cadastro de clientes, alocação em turmas e registro de professores, revelou impactos significativos na eficiência operacional e na experiência do usuário. A melhoria dessas áreas críticas resultou em uma otimiza	ção notável, agilizando as atividades diárias e proporcionando uma gestão mais eficaz.
+  A automação dos processos de uma academia, abrangendo o cadastro de clientes, alocação em turmas e registro de professores, revelou impactos significativos na eficiência operacional e na experiência do usuário. A melhoria dessas áreas críticas resultou em uma otimiza	ção notável, agilizando as atividades diárias e proporcionando uma gestão mais eficaz.
 
-Observou-se uma redução substancial no tempo dedicado a tarefas administrativas, permitindo que a equipe se concentre em aspectos mais estratégicos do negócio. Além disso, a automação contribuiu para a minimização de erros, garantindo maior precisão nos registros e evitando inconsistências nos dados.
+  Observou-se uma redução substancial no tempo dedicado a tarefas administrativas, permitindo que a equipe se concentre em aspectos mais estratégicos do negócio. Além disso, a automação contribuiu para a minimização de erros, garantindo maior precisão nos registros e evitando inconsistências nos dados.
 
-No entanto, é crucial destacar algumas limitações encontradas durante a implementação. Não poder desenvolver softwares específicos para a necessidade de academias e contar-se apenas com soluções low code impactou a qualidade e abrangência das automações propostas.
+  No entanto, é crucial destacar algumas limitações encontradas durante a implementação. Não poder desenvolver softwares específicos para a necessidade de academias e contar-se apenas com soluções low code impactou a qualidade e abrangência das automações propostas.
 
-Quanto às sugestões para futuras pesquisas, é recomendável explorar a expansão das funcionalidades automatizadas, incorporando ferramentas de avaliação de satisfação do cliente e personalização de serviços. Além disso, investigar a integração de tecnologias emergentes, como inteligência artificial e machine learning, pode elevar ainda mais a eficiência e a personalização dos processos.
-Em resumo, a automação dos processos na academia demonstrou ser uma estratégia eficaz para aprimorar a eficiência operacional. Contudo, é crucial estar ciente das limitações inerentes e buscar constantemente a inovação para enfrentar os desafios em evolução no cenário tecnológico, visando a contínua melhoria e excelência nos serviços prestados.
+  Quanto às sugestões para futuras pesquisas, é recomendável explorar a expansão das funcionalidades automatizadas, incorporando ferramentas de avaliação de satisfação do cliente e personalização de serviços. Além disso, investigar a integração de tecnologias emergentes, como inteligência artificial e machine learning, pode elevar ainda mais a eficiência e a personalização dos processos.
+
+  Em resumo, a automação dos processos na academia demonstrou ser uma estratégia eficaz para aprimorar a eficiência operacional. Contudo, é crucial estar ciente das limitações inerentes e buscar constantemente a inovação para enfrentar os desafios em evolução no cenário tecnológico, visando a contínua melhoria e excelência nos serviços prestados.
  
 
 ## **REFERÊNCIAS**
