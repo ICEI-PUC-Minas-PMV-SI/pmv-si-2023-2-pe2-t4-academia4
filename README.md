@@ -97,7 +97,7 @@ O Professor será cadastrado com todas as informações necessárias como nome c
 ## **4.1. Diagrama de Entidades e Relacionamentos (DER)**
 <br>
 <div align="center">
-<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/c6a599e6-ce7b-4ea5-bf62-a5138ac4201c" />
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/4b4f32d5-7fb2-44a7-9a15-82fe2a9a54b3" />
 </div>
 <br>
 
