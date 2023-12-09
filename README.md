@@ -117,7 +117,10 @@ Ao considerar a implementação da solução proposta usando um banco de dados N
 **Complexidade de Consulta:** Bancos de dados NoSQL podem não suportar a ampla gama de operações de consulta que os bancos de dados relacionais tradicionais suportam. Isso pode    tornar algumas operações mais complexas de serem implementadas.
 
 ## **4.3. Modelo relacional**
-
+<div align="center">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/e773343a-45c3-4bb3-bd10-28c3cf026c4e" />
+</div>
+<br>
 ## **5. Relatórios analíticos**
 
 Relatório "Alunos por Modalidade"
