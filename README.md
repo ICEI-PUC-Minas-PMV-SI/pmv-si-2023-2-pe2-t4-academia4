@@ -127,16 +127,25 @@ Ao considerar a implementação da solução proposta usando um banco de dados N
 Relatório "Alunos por Modalidade"
 <br>
 Objetivo: Este relatório visa fornecer uma visão clara da distribuição de alunos nas diferentes modalidades oferecidas, auxiliando na alocação de recursos e no planejamento estratégico.
-
+<div align="center">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/7a907f60-1e25-4c04-a64f-dee2b1b1ad4e" />
+</div>
+<br>
 Relatório "Total de Alunos"
 <br>
 Objetivo: Oferece uma visão geral da academia , essencial para entender o tamanho e a escala das operações da instituição.
-
-
+<div align="center">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/96a6a0e6-b081-4c34-862d-bd6bb08a3dd7" />
+</div>
+<br>
 Relatório "Professor por Modalidade"
 <br>
 Objetivo: Este relatório ajuda a entender a distribuição de professores pelas diversas modalidades, facilitando a gestão de recursos humanos e a coordenação acadêmica.
-  
+<div align="center">
+<img src = "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2023-2-pe2-t4-academia4/assets/128246244/40c31b28-a71f-4c2c-9a2b-f8f800413596" />
+</div>
+<br>
+
 ## **5.1. Associação de comandos SQL com relatórios analíticos**
 
 | Nome do Relatório Analítico | Comando SQL-DML (SELECT)                                 |
