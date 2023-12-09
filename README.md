@@ -155,9 +155,14 @@ Objetivo: Este relatório ajuda a entender a distribuição de professores pelas
 
 ## **7. Conclusão**
 
-Apresentem aqui a conclusão do trabalho que deve conter uma síntese dos principais resultados obtidos com a melhoria dos processos, uma discussão das limitações da solução proposta e sugestões de novas linhas de estudo. 
-##
-**REFERÊNCIAS**
+A automação dos processos de uma academia, abrangendo o cadastro de clientes, alocação em turmas e registro de professores, revelou impactos significativos na eficiência operacional e na experiência do usuário. A melhoria dessas áreas críticas resultou em uma otimiza	ção notável, agilizando as atividades diárias e proporcionando uma gestão mais eficaz.
+Observou-se uma redução substancial no tempo dedicado a tarefas administrativas, permitindo que a equipe se concentre em aspectos mais estratégicos do negócio. Além disso, a automação contribuiu para a minimização de erros, garantindo maior precisão nos registros e evitando inconsistências nos dados.
+No entanto, é crucial destacar algumas limitações encontradas durante a implementação. Não poder desenvolver softwares específicos para a necessidade de academias e contar-se apenas com soluções low code impactou a qualidade e abrangência das automações propostas.
+Quanto às sugestões para futuras pesquisas, é recomendável explorar a expansão das funcionalidades automatizadas, incorporando ferramentas de avaliação de satisfação do cliente e personalização de serviços. Além disso, investigar a integração de tecnologias emergentes, como inteligência artificial e machine learning, pode elevar ainda mais a eficiência e a personalização dos processos.
+Em resumo, a automação dos processos na academia demonstrou ser uma estratégia eficaz para aprimorar a eficiência operacional. Contudo, é crucial estar ciente das limitações inerentes e buscar constantemente a inovação para enfrentar os desafios em evolução no cenário tecnológico, visando a contínua melhoria e excelência nos serviços prestados.
+ 
+
+## **REFERÊNCIAS**
 
 CENSO FITNESS. Relatório sobre o panorama do setor fitness no Brasil. 2022. Disponível em: https://censofitness.com.br/. Acesso em: 25 ago. 2023.
 Como um projeto de software não requer revisão bibliográfica, a inclusão das referências não é obrigatória. No entanto, caso vocês desejem incluir referências relacionadas às tecnologias, padrões, ou metodologias empregadas no trabalho, relacione-as de acordo com a ABNT.
