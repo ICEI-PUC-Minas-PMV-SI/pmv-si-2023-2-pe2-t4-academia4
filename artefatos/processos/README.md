@@ -1,7 +1,7 @@
 # Lista dos processos de negócio do sistema
 
-* login.bpmn - Processo de login.
-* agendar.bpmn - Processo de agendamento.
-* entregar.bpmn - Processo de entrega.
+* (Gerenciamento de turma) - turma4academia.bpmn - Processo gerenciamento de turma.
+* (Gerenciamento de Professor II) - turma4academia.bpmn - Processo gerenciamento de professor.
+* (Gerenciamento de cliente II) - turma4academia.bpmn - Processo gerenciamento de cliente.
 
 
