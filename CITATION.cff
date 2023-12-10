@@ -14,18 +14,11 @@ authors:
   - family-names: Lindenberg Pimenta
     given-names: João Pedro
     
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Veloso
-    given-names: Eveline Alonso
-  - name-suffix: Professor
+    - name-suffix: Professor
     affiliation: PUC Minas
     family-names: Baroni de Carvalho
     given-names: Juliana Amaral 
-  - name-suffix: Professor
-    affiliation: PUC Minas
-    family-names: Da Mota
-    given-names: Rosilane Ribeiro
+ 
   
 cff-version: "1.1.0"
 keywords: 
